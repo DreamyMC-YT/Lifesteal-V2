@@ -17,7 +17,7 @@
   },
   "entrypoints": {
     "main": [
-      "com.dreamysmp.lifesteal.Main"
+      "src.com.dreamysmp.lifesteal.Main"
     ]
   }
 }
