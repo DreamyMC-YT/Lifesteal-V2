@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraft-lifesteal-mod",
+  "version": "1.0.0",
+  "name": "Minecraft Lifesteal Mod",
+  "description": "A Lifesteal Mod used in the DreamySMP server.",
+  "authors": [
+    "Dreamy_MC"
+  ],
+  "contact": {
+    "sources": "https://github.com/DreamyMC-YT/minecraft-lifesteal-mod"
+  },
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": "1.21.1",
+    "java": ">=17"
+  },
+  "entrypoints": {
+    "main": [
+      "com.dreamysmp.lifesteal.Main"
+    ]
+  }
+}
