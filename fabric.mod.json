@@ -8,7 +8,7 @@
     "Dreamy_MC"
   ],
   "contact": {
-    "sources": "https://github.com/DreamyMC-YT/minecraft-lifesteal-mod"
+    "sources": "https://github.com/DreamyMC-YT/Lifesteal-V2"
   },
   "depends": {
     "fabricloader": ">=0.14.19",
