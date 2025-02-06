@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-lifesteal-mod",
+  "name": "Lifesteal-V2",
   "version": "1.0.0",
   "description": "A Lifesteal Mod used in the DreamySMP server.",
   "main": "src/main/java/com/dreamysmp/lifesteal/Main.java",
