@@ -77,7 +77,7 @@ java {
 
 jar {
     from 'LICENSE'
-    archiveBaseName.set('Lifesteal')
+    archiveBaseName.set('Lifesteal-V2')
     archiveVersion.set('1.0.0')
 }
 
