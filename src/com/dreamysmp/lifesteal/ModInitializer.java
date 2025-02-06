@@ -5,7 +5,6 @@ package src.com.dreamysmp.lifesteal;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
 
-
 interface ModInitializer {
-
+    // ...existing code...
 }
