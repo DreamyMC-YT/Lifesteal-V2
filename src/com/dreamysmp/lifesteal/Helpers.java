@@ -1,4 +1,5 @@
 package src.com.dreamysmp.lifesteal;
+
 import src.com.dreamysmp.lifesteal.utils.LiteralText;
 
 public class Helpers {
@@ -12,6 +13,6 @@ public class Helpers {
 
         // Register other events here
     }
-    // TODO
 
+    // TODO
 }
