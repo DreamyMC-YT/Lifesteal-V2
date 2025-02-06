@@ -6,7 +6,8 @@ plugins {
 
 group = 'com.dreamysmp'
 version = '1.0.0'
-archivesBaseName = 'minecraft-lifesteal-mod'
+archivesBaseName = 'Lifesteal-V2'
+
 
 sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
